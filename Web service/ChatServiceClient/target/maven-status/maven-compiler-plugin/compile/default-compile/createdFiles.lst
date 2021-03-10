@@ -1,0 +1,7 @@
+edu/stevens/cs594/chat/service/ejb/IMessageServiceRemote.class
+edu/stevens/cs594/chat/service/ejb/IMessageService$MessageNotFoundExn.class
+edu/stevens/cs594/chat/service/ejb/IMessageService$MessageServiceExn.class
+edu/stevens/cs594/chat/service/ejb/IMessageServiceLocal.class
+edu/stevens/cs594/chat/service/ejb/IMessageService.class
+edu/stevens/cs594/chat/service/messages/Messages.class
+edu/stevens/cs594/chat/service/ejb/IMessageService$UserNotFoundExn.class

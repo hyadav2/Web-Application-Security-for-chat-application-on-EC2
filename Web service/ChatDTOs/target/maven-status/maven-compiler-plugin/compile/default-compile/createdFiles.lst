@@ -1,0 +1,10 @@
+edu/stevens/cs594/chat/service/dto/package-info.class
+edu/stevens/cs594/chat/service/dto/UserDto.class
+edu/stevens/cs594/chat/service/dto/Adapter1.class
+edu/stevens/cs594/chat/service/dto/util/RoleDtoFactory.class
+edu/stevens/cs594/chat/service/dto/ObjectFactory.class
+edu/stevens/cs594/chat/service/dto/util/UserDtoFactory.class
+edu/stevens/cs594/chat/service/dto/util/MessageDtoFactory.class
+edu/stevens/cs594/chat/service/dto/RoleDto.class
+edu/stevens/cs594/chat/service/dto/util/DateAdapter.class
+edu/stevens/cs594/chat/service/dto/MessageDto.class

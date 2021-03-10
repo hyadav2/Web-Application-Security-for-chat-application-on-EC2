@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: sarveshthakur
+Class-Path: lib/ChatDomain-1.0.0.jar lib/ChatDTOs-1.0.0.jar lib/jaxb-r
+ untime-2.3.1.jar lib/jaxb-api-2.3.1.jar lib/txw2-2.3.1.jar lib/istack
+ -commons-runtime-3.0.7.jar lib/stax-ex-1.8.jar lib/FastInfoset-1.2.15
+ .jar lib/javax.activation-api-1.2.0.jar lib/ChatServiceClient-1.0.0.j
+ ar lib/commons-codec-1.10.jar lib/core-3.2.0.jar lib/javase-3.2.0.jar
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_202
+
